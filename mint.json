@@ -12,34 +12,21 @@
     "dark": "#0050B4"
   },
   "topbarLinks": [
-    {
-      "name": "Documentation",
-      "url": "https://mintlify.com/docs"
-    }
   ],
   "topbarCtaButton": {
-    "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
+    "name": "Become A Member",
+    "url": "3"
   },
   "anchors": [
   ],
   "navigation": [
     {
       "group": "Home",
-      "pages": ["features","manifesto"]
+      "pages": ["features","manifesto", "legal"]
     },
     {
-      "group": "API Documentation",
-      "pages": ["api-reference/authentication"]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/update",
-        "api-reference/endpoint/delete"
-      ]
+      "group": "Membership",
+      "pages": ["basics", "stewards"]
     }
   ],
   "footerSocials": {
