@@ -22,7 +22,7 @@
   "navigation": [
     {
       "group": "Home",
-      "pages": ["features", "coop", "manifesto", "lca"]
+      "pages": ["welcome", "coop", "manifesto", "lca"]
     },
     {
       "group": "Structure",
