@@ -22,11 +22,15 @@
   "navigation": [
     {
       "group": "Home",
-      "pages": ["features","manifesto", "lca"]
+      "pages": ["features", "coop", "manifesto", "lca"]
     },
     {
       "group": "Structure",
-      "pages": ["basics", "stewards", "governance", "code"]
+      "pages": ["basics", "stewards", "governance", "code", "govbasics"]
+    },
+      {
+      "group": "Applications",
+      "pages": ["process"]
     }
   ],
   "footerSocials": {
