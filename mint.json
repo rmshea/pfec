@@ -30,7 +30,7 @@
     },
       {
       "group": "Applications",
-      "pages": ["process"]
+      "pages": ["process", "ourcut"]
     }
   ],
   "footerSocials": {
