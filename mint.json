@@ -1,10 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Documentation Starter Kit",
-  "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
-  },
+  "name": "People's Spotlight",
   "favicon": "/favicon.png",
   "colors": {
     "primary": "#0069ED",
@@ -15,7 +11,7 @@
   ],
   "topbarCtaButton": {
     "name": "Become A Member",
-    "url": "3"
+    "url": "https://nation.io/a/peoplesspotlight/contribute"
   },
   "anchors": [
   ],
